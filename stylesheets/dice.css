@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.c1{
+    height: 100vh;
+    width: 98.9vw;
+    background-color: white;
+    justify-content: center;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.c2{
+    height: 522px;
+    width: 1182px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 80px;
+    left: 150px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.dicelogo{
+    height: 550px;
+    width: 600px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+.h1{
+    font-size: 80px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-weight: 900;
+
+    
+}
+.c3{
+    position: relative;
+    top: 210px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.btn1{
+    height:35px;
+    width: 140px;
+    position: absolute;
+    right: 0px;
+    top: 100px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.link1{
+    text-decoration: none;
+    color: white;
+}
